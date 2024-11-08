@@ -1,3 +1,6 @@
+! Title: Zach's uBlock Origin Filters
+! License: https://github.com/zfett/ZachsuBlockFilters/blob/main/LICENSE
+
 ! YouTube
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.service_worker_enabled, false)
 
