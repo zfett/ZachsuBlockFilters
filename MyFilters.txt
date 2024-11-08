@@ -1,0 +1,18 @@
+! YouTube
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.service_worker_enabled, false)
+
+! PolyHaven
+||ads.polyhaven.org$image
+
+! Name.com
+www.name.com###TitanTrialWidget
+www.name.com##.purplecirclebg.fullbox.padding30.roundshadowbox
+www.name.com##div.marginbottom50.margintop50.padding30.bgwhite.roundshadowbox:nth-of-type(5)
+www.name.com##.marginbottom20.colordarkgray.font25.proximanovabold
+
+! ProtonMail
+mail.proton.me##.spotlight--bottom.spotlight
+
+! Flickr
+www.flickr.com##.nav-ad-container
+www.flickr.com##*:remove-class(desktop-nav-ad)
