@@ -17,6 +17,7 @@ www.name.com##.marginbottom20.colordarkgray.font25.proximanovabold
 mail.proton.me##.spotlight--bottom.spotlight
 mail.proton.me##.button-promotion--bf-2024
 mail.proton.me##.tip-box
+mail.proton.me##.bg-promotion
 
 ! Flickr
 www.flickr.com##.nav-ad-container
