@@ -22,3 +22,4 @@ mail.proton.me##.bg-promotion
 ! Flickr
 www.flickr.com##.nav-ad-container
 www.flickr.com##*:remove-class(desktop-nav-ad)
+www.flickr.com##.feed-b
